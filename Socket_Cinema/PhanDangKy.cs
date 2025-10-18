@@ -10,7 +10,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-namespace Cinema_Management
+namespace Socket_Cinema
 {
     public partial class PhanDangKy : Form
     {

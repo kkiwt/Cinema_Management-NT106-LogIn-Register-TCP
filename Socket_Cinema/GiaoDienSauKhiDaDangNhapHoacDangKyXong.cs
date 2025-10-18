@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 
-namespace Cinema_Management
+namespace Socket_Cinema
 {
 
     public partial class GiaoDienSauKhiDaDangNhapHoacDangKyXong : Form

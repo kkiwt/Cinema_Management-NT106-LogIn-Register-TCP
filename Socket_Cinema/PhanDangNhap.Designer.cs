@@ -1,4 +1,4 @@
-﻿namespace Cinema_Management
+﻿namespace Socket_Cinema
 {
     partial class PhanDangNhap
     {

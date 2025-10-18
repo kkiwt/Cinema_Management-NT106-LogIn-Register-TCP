@@ -1,4 +1,4 @@
-﻿namespace Week4SampleCode
+﻿namespace Socket_Cinema_Server
 {
     partial class Server
     {
