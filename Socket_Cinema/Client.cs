@@ -2,7 +2,7 @@
 using System.Net.Sockets;
 using System.Net;
 
-namespace Week4SampleCode
+namespace Socket_Cinema
 {
     public partial class Client : Form
     {

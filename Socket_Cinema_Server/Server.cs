@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Week4SampleCode
+namespace Socket_Cinema_Server
 {
     public partial class Server : Form
     {
